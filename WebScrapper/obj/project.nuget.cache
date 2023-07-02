@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBvMc794qYDjyZYU/2YbYDzXoadp/m5hCfyIazxFS2iWztV7o+/vx1xpZ7ibVfZqc/5UyNwGvBgF5n7C8XQYrQ==",
+  "success": true,
+  "projectFilePath": "/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/WebScrapper.csproj",
+  "expectedPackageFiles": [
+    "/Users/ishitasatpathy/.nuget/packages/htmlagilitypack/1.11.48/htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}

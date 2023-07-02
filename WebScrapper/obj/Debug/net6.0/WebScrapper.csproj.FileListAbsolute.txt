@@ -1,0 +1,17 @@
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/WebScrapper
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/WebScrapper.deps.json
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/WebScrapper.runtimeconfig.json
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/WebScrapper.dll
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/WebScrapper.pdb
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.csproj.AssemblyReference.cache
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.AssemblyInfoInputs.cache
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.AssemblyInfo.cs
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.csproj.CoreCompileInputs.cache
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.csproj.CopyComplete
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.dll
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/refint/WebScrapper.dll
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.pdb
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/WebScrapper.genruntimeconfig.cache
+/Users/ishitasatpathy/Projects/WebScrapper/WebScrapper/obj/Debug/net6.0/ref/WebScrapper.dll
